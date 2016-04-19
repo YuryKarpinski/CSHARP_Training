@@ -1,4 +1,4 @@
-﻿using ClassLib;
+﻿using ClassLib_Task1;
 using System;
 using System.Collections;
 using System.Configuration;
@@ -9,7 +9,7 @@ using System.Resources;
 using System.Reflection;
 using ConsoleApplication1;
 
-namespace ConsoleApp
+namespace ConsoleApp_Task1
 {
     class Program
     {

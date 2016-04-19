@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClassLib
+namespace ClassLib_Task1
 {
     public class Calc
     {

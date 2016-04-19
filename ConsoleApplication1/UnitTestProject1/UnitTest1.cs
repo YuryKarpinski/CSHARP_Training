@@ -1,8 +1,8 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using ClassLib;
+using ClassLib_Task1;
 
-namespace UnitTestProject1
+namespace UnitTest_Task1
 {
     [TestClass]
     public class UnitTest1
